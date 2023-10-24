@@ -6,7 +6,10 @@ sites:
     url: https://ha.nomi25.cyou/
   - name: NC
     url: https://cloudy.nomi25.cyou/
-
+  - name: Proxmox
+    url: https://proxmox.nomi25.cyou/
+  - name: Unraid
+    url: https://unraid.nomi25.cyou/
 status-website:
   #cname: custom-domain.com # Your custom domain (optional)
   baseUrl: /upptime # Optional, set if you're not using a custom domain
