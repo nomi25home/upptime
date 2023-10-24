@@ -7,8 +7,8 @@ sites:
     url: https://www.ha.nomi25.cyou.com
   - name: Unraid
     url: https://www.unraid.nomi25.cyou
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Proxmox
+    url: https://www.proxmox.nomi25.cyou
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
