@@ -6,7 +6,7 @@ sites:
     url: https://ha.nomi25.cyou/
   - name: NC
     url: https://cloudy.nomi25.cyou/
-    icon: https://www.svgrepo.com/show/342063/nextcloud.svg
+    icon: https://cdn.icon-icons.com/icons2/3913/PNG/512/nextcloud_logo_icon_248378.png
   - name: Proxmox
     url: https://proxmox.nomi25.cyou/
   - name: Unraid
