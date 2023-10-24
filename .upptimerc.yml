@@ -1,31 +1,25 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: nomi25home # Your GitHub organization or username
+repo: upptime # The name of the repository where Upptime will be configured
 
 sites:
   - name: HA
-    url: https://www.ha.nomi25.cyou.com
-  - name: Unraid
-    url: https://www.unraid.nomi25.cyou
-  - name: Proxmox
-    url: https://www.proxmox.nomi25.cyou
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://ha.nomi25.cyou/
+  - name: NC
+    url: https://cloudy.nomi25.cyou/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: nomi25home/upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: custom-domain.com # Your custom domain (optional)
+  baseUrl: /upptime # Optional, set if you're not using a custom domain
+  logoUrl: https://example.com/logo.png
+  name: Custom Upptime
+  introTitle: "Custom Upptime Monitoring"
+  introMessage: "This is a custom Upptime status page for monitoring various services. Powered by GitHub Actions and Upptime."
   navbar:
-    - title: Status
+    - title: Home
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/your-username/your-repo-name
+    - title: Documentation
+      href: https://upptime.js.org/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Upptime supports various notifications, alerts, and more.
