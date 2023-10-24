@@ -23,18 +23,58 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudy.nomi25.cyou.ico",
     "slug": "nc",
     "status": "down",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 321,
     "timeDay": 321,
     "timeWeek": 321,
     "timeMonth": 321,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-10-24": 1
+      "2023-10-24": 4
+    }
+  },
+  {
+    "name": "Proxmox",
+    "url": "https://proxmox.nomi25.cyou/",
+    "icon": "https://icons.duckduckgo.com/ip3/proxmox.nomi25.cyou.ico",
+    "slug": "proxmox",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-10-24": 12
+    }
+  },
+  {
+    "name": "Unraid",
+    "url": "https://unraid.nomi25.cyou/",
+    "icon": "https://icons.duckduckgo.com/ip3/unraid.nomi25.cyou.ico",
+    "slug": "unraid",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-10-24": 13
     }
   }
 ]
