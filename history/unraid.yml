@@ -1,7 +1,7 @@
 url: https://unraid.nomi25.cyou/login
-status: down
-code: 502
-responseTime: 16294
-lastUpdated: 2023-11-29T14:30:31.080Z
+status: up
+code: 200
+responseTime: 209
+lastUpdated: 2023-11-29T14:42:44.983Z
 startTime: 2023-10-24T01:32:28.750Z
 generator: Upptime <https://github.com/upptime/upptime>
