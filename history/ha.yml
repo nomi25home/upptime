@@ -1,7 +1,7 @@
 url: https://ha.nomi25.cyou/
-status: up
-code: 200
-responseTime: 359
-lastUpdated: 2023-12-18T23:14:10.899Z
+status: down
+code: 502
+responseTime: 2385
+lastUpdated: 2023-12-19T06:56:33.045Z
 startTime: 2023-10-24T01:19:57.632Z
 generator: Upptime <https://github.com/upptime/upptime>
